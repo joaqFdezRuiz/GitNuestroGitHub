@@ -7,3 +7,6 @@ en local como en el remote
 damos hoy nuestro put de cada dia
 perdona nuestros conflictos 
 como tambien perdonamos los de otros geeks
+no nos dejes caer en dettached HEAD
+y libramos de SVN
+git commit --amend
